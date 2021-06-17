@@ -13,7 +13,7 @@ This challenge focuses on using the new for ES6 `class` syntax.
 
 ### Task 1 - Set up Project
 
-1. Fork repo
+1. Fork repo.....
 1. Clone _your_ fork (not Lambda's repo by mistake!).
 1. `cd` into your newly cloned repository.
 1. Create a new branch by typing `git checkout -b <firstName-lastName>`.
